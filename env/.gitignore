@@ -1,0 +1,12 @@
+# Ignorar la carpeta del entorno virtual
+env/
+venv/
+__pycache__/
+
+# Archivos sensibles
+.env
+firebase-key.json
+
+# Archivos de sistema
+*.pyc
+.DS_Store
