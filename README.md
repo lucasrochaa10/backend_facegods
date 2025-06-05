@@ -34,6 +34,7 @@ Este backend ha sido desarrollado en Python utilizando **FastAPI** y se conecta 
 
 
 cd backend_facegods
+
 3.Crear un entorno virtual:
 
 
