@@ -38,6 +38,7 @@ cd backend_facegods
 
 
 python -m venv env
+
 4.Activar el entorno:
 
 En Windows:
@@ -52,6 +53,7 @@ Instalar dependencias:
 
 pip install -r requirements.txt
 Colocar el archivo firebase-key.json (clave privada) en la raíz del proyecto
+
 ⚠️ Este archivo no se sube al repositorio por seguridad.
 
 Crear un archivo .env con el siguiente contenido:
